@@ -1,0 +1,5 @@
+repositorio\RepositorioDeDatos.class
+modelo\cliente\Cliente.class
+principal\VentaBici.class
+modelo\persona\Persona.class
+modelo\vendedor\Vendedor.class
